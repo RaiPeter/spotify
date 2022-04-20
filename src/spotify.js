@@ -4,7 +4,7 @@
 export const authEndpoint =
     "https://accounts.spotify.com/authorize";
 
-const redirectUri = "https://raipeter.github.io/spotify/";
+const redirectUri = "https://raipeter.github.io/";
 const clientId = "e291520d2b8d4d9dabce8d4d9ae068cf";
 
 const scopes = [
